@@ -55,7 +55,7 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 | [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | Geraldine Khatrina Tudela Theo | Alta | Alta | Media | [Sí/No] | [Commits, avances, etc.] |
 | Luis German Guerrero Peña | Media | Media | Media | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Mijail mendoza chavez | alta | alta| media | [Sí/No] | Desarrollo de la Actividad 3, código Java, pruebas de ejecución y aporte al README |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## 6. Video de exposición

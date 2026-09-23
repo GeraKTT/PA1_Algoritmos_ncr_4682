@@ -53,9 +53,9 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | Victor Manuel Fabricio Quispe Gonzales | Alta | Alta | Media | Sí | Desarrollo de actividad 4 , evidencia , README |
-| Geraldine Khatrina Tudela Theo | Alta | Alta | Media | [Sí/No] | [Commits, avances, etc.] |
-| Luis German Guerrero Peña | Media | Media | Media | [Sí/No] | [Commits, avances, etc.] |
-| Mijail mendoza chavez | alta | alta| media | [Sí/No] | Desarrollo de la Actividad 3, código Java, pruebas de ejecución y aporte al README |
+| Geraldine Khatrina Tudela Theo | Alta | Alta | Media | Sí | [Commits, avances, etc.] |
+| Luis German Guerrero Peña | Media | Media | Media | No | [Commits, avances, etc.] |
+| Mijail mendoza chavez | alta | alta| media | Sí | Desarrollo de la Actividad 3, código Java, pruebas de ejecución y aporte al README |
 
 
 ## 6. Video de exposición

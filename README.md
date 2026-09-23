@@ -31,10 +31,12 @@ El equipo diseñó una arquitectura basada en tres fases:
 ```
 
 **Pasos de revisión:**
-1. [Paso 1]
-2. [Paso 2]
-3. [Paso 3]
-
+```bash
+1. # 1. Clonar el repositorio en la máquina local
+git clone [https://github.com/GeraKTT/PA1_Algoritmos_ncr_4682.git](https://github.com/GeraKTT/PA1_Algoritmos_ncr_4682.git)
+2. # 2. Navegar al directorio del proyecto
+cd PA1_Algoritmos_ncr_4682
+```
 > No publicar contraseñas, tokens, credenciales ni datos sensibles.
 
 ## 4. Evidencias
@@ -56,18 +58,18 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | Victor Manuel Fabricio Quispe Gonzales | Alta | Alta | Media | Sí | Desarrollo de actividad 4 , evidencia , README |
-| Geraldine Khatrina Tudela Theo | Alta | Alta | Media | Sí | [Commits, avances, etc.] |
+| Geraldine Khatrina Tudela Theo | Alta | Alta | Media | No | Desarrollo de actividad 2, código Java, evidencia de ejecución , aporte al README |
 | Luis German Guerrero Peña | Media | Media | Media | No | [Commits, avances, etc.] |
 | Mijail mendoza chavez | alta | alta| media | Sí | Desarrollo de la Actividad 3, código Java, pruebas de ejecución y aporte al README |
 
 
 ## 6. Video de exposición
 
-actividad3 : https://youtu.be/Ncj-AChbx7o
+**Video público de YouTube:**
 
-
-**Video público de YouTube:** 
-Actividad 4 : https://youtu.be/aa_Sd9QqeMU
+- [Actividad 3](https://youtu.be/Ncj-AChbx7o)
+- [Actividad 4](https://youtu.be/aa_Sd9QqeMU)
+ 
 
 
 

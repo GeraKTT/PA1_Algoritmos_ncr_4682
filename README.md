@@ -11,7 +11,7 @@
 |---|---|---|
 | [Nombre 1] | [Rol] | [Aporte] |
 | Geraldine Khatrina Tudela Theo | Desarrolladora | Resolución de la Actividad 2: Modelado, algoritmos de búsqueda (mayor/menor), inserción y ordenamiento (Burbuja) en vectores. |
-| [Nombre 3] | [Rol] | [Aporte] |
+| Luis German Guerrero Peña | Analista | Resolución de la Actividad 1: Análisis del problema y selección de estructura. |
 | [Nombre 4] | [Rol] | [Aporte] |
 | [Nombre 5] | [Rol] | [Aporte] |
 
@@ -54,7 +54,7 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 |---|---|---|---|---|---|
 | [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | Geraldine Khatrina Tudela Theo | Alta | Alta | Media | [Sí/No] | [Commits, avances, etc.] |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Luis German Guerrero Peña | Media | Media | Media | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 

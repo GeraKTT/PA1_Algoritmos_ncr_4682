@@ -44,7 +44,10 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 - [Evidencia 1]
 - Actividad 2 (Vectores):
   ![Consola de Vectores](Actividad_2_Modelado_y_operaciones/evidencias/Evidencia_Actividad2.png)
+
+  actividad 3 matrices y reciorridos base de datos : <img width="705" height="520" alt="Captura de pantalla 2026-09-22 231830" src="https://github.com/user-attachments/assets/109d1900-eded-471b-b6a2-920715e56e2c" />
 - Actividad 4 (Matrices especiales):
+
   
   ![Grafico](Actividad_4_Matrices_especiales/Evidencia4.png)
 

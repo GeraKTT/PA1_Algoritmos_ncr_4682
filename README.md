@@ -63,9 +63,11 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 
 ## 6. Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** 
+Actividad 4 : https://youtu.be/aa_Sd9QqeMU
 
-Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
+
+
 
 ## 7. Conclusiones
 El diseño de esta primera etapa del sistema académico demuestra que la correcta selección de estructuras de datos lineales estáticas (vectores y matrices) es fundamental para la eficiencia del software. Mientras que los arreglos unidimensionales permiten gestionar e iterar rápidamente listas definidas como los totales de inscritos, las matrices bidimensionales facilitan el cruce de variables complejas como la ocupación de aulas por horarios. Asimismo, el análisis del caso evidenció que ante volúmenes de datos donde predominan los valores nulos, optar por soluciones avanzadas como las matrices poco densas resulta indispensable para optimizar tanto el consumo de memoria RAM como el costo computacional de los algoritmos de búsqueda.

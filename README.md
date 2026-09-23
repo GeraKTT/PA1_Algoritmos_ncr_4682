@@ -12,7 +12,7 @@
 | [Nombre 1] | [Rol] | [Aporte] |
 | Geraldine Khatrina Tudela Theo | Desarrolladora | Resolución de la Actividad 2: Modelado, algoritmos de búsqueda (mayor/menor), inserción y ordenamiento (Burbuja) en vectores. |
 | Luis German Guerrero Peña | Analista | Resolución de la Actividad 1: Análisis del problema y selección de estructura. |
-| [Mijail mendoza chavez] | [programador] |diseño de la matriz, elaboración de algoritmos de recorrido, cálculo de totales, identificación de la mayor ocupación y desarrollo/prueba del código Java |
+| Mijail mendoza chavez | programador |diseño de la matriz, elaboración de algoritmos de recorrido, cálculo de totales, identificación de la mayor ocupación y desarrollo/prueba del código Java |
 | [Nombre 5] | [Rol] | [Aporte] |
 
 ## 2. Descripción y objetivo

@@ -46,17 +46,18 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 - Actividad 2 (Vectores):
   ![Consola de Vectores](Actividad_2_Modelado_y_operaciones/evidencias/Evidencia_Actividad2.png)
 - Actividad 4 (Matrices especiales):
+  
   ![Grafico](Actividad_4_Matrices_especiales/Evidencia4.png)
 
 ## 5. Matriz de participación
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Victor Manuel Fabricio Quispe Gonzales | Alta | Alta | Media | Sí | Desarrollo de actividad 4 , evidencia , README |
 | Geraldine Khatrina Tudela Theo | Alta | Alta | Media | [Sí/No] | [Commits, avances, etc.] |
 | Luis German Guerrero Peña | Media | Media | Media | [Sí/No] | [Commits, avances, etc.] |
 | Mijail mendoza chavez | alta | alta| media | [Sí/No] | Desarrollo de la Actividad 3, código Java, pruebas de ejecución y aporte al README |
-| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+
 
 ## 6. Video de exposición
 

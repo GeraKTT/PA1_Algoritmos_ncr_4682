@@ -1,19 +1,18 @@
 # README — Evaluación
 
-> **Curso:** PROGRAMACION WEB - II  
-> **Código:** 30690  
+> **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL  
+> **Código:** 4682  
 > **Evaluación:** PA1  
-> **Equipo:** Grupo 8
+> **Equipo:** Grupo 4
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | [Rol] | [Aporte] |
+| Victor Manuel Fabricio Quispe Gonzales | Analista | Resolución de la Actividad 4 |
 | Geraldine Khatrina Tudela Theo | Desarrolladora | Resolución de la Actividad 2: Modelado, algoritmos de búsqueda (mayor/menor), inserción y ordenamiento (Burbuja) en vectores. |
 | Luis German Guerrero Peña | Analista | Resolución de la Actividad 1: Análisis del problema y selección de estructura. |
 | Mijail mendoza chavez | programador |diseño de la matriz, elaboración de algoritmos de recorrido, cálculo de totales, identificación de la mayor ocupación y desarrollo/prueba del código Java |
-| [Nombre 5] | [Rol] | [Aporte] |
 
 ## 2. Descripción y objetivo
 
@@ -46,7 +45,8 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 - [Evidencia 1]
 - Actividad 2 (Vectores):
   ![Consola de Vectores](Actividad_2_Modelado_y_operaciones/evidencias/Evidencia_Actividad2.png)
-- [Evidencia 3]
+- Actividad 4 (Matrices especiales):
+  
 
 ## 5. Matriz de participación
 

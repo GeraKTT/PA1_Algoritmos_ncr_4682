@@ -67,10 +67,7 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ## 7. Conclusiones
 
-- [Conclusión 1]
-- [Conclusión 2]
-- [Conclusión 3]
-
+El diseño de esta primera etapa del sistema académico demuestra que la correcta selección de estructuras de datos lineales estáticas (vectores y matrices) es fundamental para la eficiencia del software. Mientras que los arreglos unidimensionales permiten gestionar e iterar rápidamente listas definidas como los totales de inscritos, las matrices bidimensionales facilitan el cruce de variables complejas como la ocupación de aulas por horarios. Asimismo, el análisis del caso evidenció que ante volúmenes de datos donde predominan los valores nulos, optar por soluciones avanzadas como las matrices poco densas resulta indispensable para optimizar tanto el consumo de memoria RAM como el costo computacional de los algoritmos de búsqueda.
 ---
 
 **Última actualización:** [22/09/2026]

@@ -15,15 +15,6 @@
 | Mijail mendoza chavez | programador |diseño de la matriz, elaboración de algoritmos de recorrido, cálculo de totales, identificación de la mayor ocupación y desarrollo/prueba del código Java |
 
 ## 2. Descripción y objetivo
-
-**Problema:**  
-[Describir brevemente el problema trabajado.]
-
-**Objetivo:**  
-[Indicar qué busca resolver el proyecto.]
-
-**Solución desarrollada:**  
-[Explicar brevemente la solución implementada.]
 **Problema:**
 La coordinación académica requiere un sistema informático estructurado para organizar, procesar y consultar la información referente a la gestión de talleres estudiantiles. Actualmente se necesita un modelo lógico que soporte el control de inscritos, la asignación de aulas, el manejo de bloques horarios y la optimización de los recursos del sistema.   
 **Objetivo:**

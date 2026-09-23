@@ -46,7 +46,7 @@ Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funciona
 - Actividad 2 (Vectores):
   ![Consola de Vectores](Actividad_2_Modelado_y_operaciones/evidencias/Evidencia_Actividad2.png)
 - Actividad 4 (Matrices especiales):
-  
+  ![Grafico](Actividad_4_Matrices_especiales/Evidencia4.png)
 
 ## 5. Matriz de participación
 

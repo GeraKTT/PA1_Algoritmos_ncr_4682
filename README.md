@@ -24,7 +24,15 @@
 
 **Solución desarrollada:**  
 [Explicar brevemente la solución implementada.]
-
+**Problema:**
+La coordinación académica requiere un sistema informático estructurado para organizar, procesar y consultar la información referente a la gestión de talleres estudiantiles. Actualmente se necesita un modelo lógico que soporte el control de inscritos, la asignación de aulas, el manejo de bloques horarios y la optimización de los recursos del sistema.   
+**Objetivo:**
+Proponer e implementar una solución técnica inicial utilizando estructuras de datos lineales estáticas (arreglos y matrices) para almacenar cantidades de inscritos, ejecutar algoritmos de ordenamiento y búsqueda, y representar gráficamente la distribución académica optimizando la memoria.   
+**Solución desarrollada:**
+El equipo diseñó una arquitectura basada en tres fases:   
+**Vectores:** Implementación de un arreglo unidimensional con algoritmos de búsqueda (mayor/menor) y ordenamiento para procesar la cantidad de inscritos por taller.   
+**Matrices regulares:** Diseño de un recorrido de datos bidimensional (4 filas x 5 columnas) para calcular la ocupación de aulas según el horario.   
+**Optimización lógica:** Análisis del rendimiento del sistema donde se determinó que la aplicación de una matriz poco densa (Sparse Matrix) es la solución más eficiente para gestionar registros masivos de estudiantes, minimizando drásticamente el consumo inútil de memoria.
 ## 3. Cómo ejecutar o revisar
 
 ```bash
